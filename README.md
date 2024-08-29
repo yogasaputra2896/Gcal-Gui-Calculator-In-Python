@@ -1,8 +1,8 @@
 # GCAL (Gui Calculator)
 
 Gcal adalah calculator versi gui update dari aplikasi saya sebelumnya yaitu CALCON (calculator console).
-Gcal proyek sederhana yang saya buat untuk mengembangkan skill bahasa pemrograman python.
-mempunyai fungsi yang sama seperti CALCON dan memiliki kelebih tambilan lebih menarik
+Gcal project sederhana yang saya buat untuk mengembangkan skill bahasa pemrograman python.
+mempunyai fungsi yang sama seperti CALCON dan memiliki kelebih tampilan lebih menarik
 
 ![image](https://github.com/user-attachments/assets/136d6953-a7ea-423b-9594-e820d3000984)
 
