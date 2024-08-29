@@ -19,3 +19,5 @@ GCAL memiliki fungsi yang sama seperti CALCON, namun dengan kelebihan tampilan y
 salinan kode dengan mudah dari repo.
 - Jalankan Skrip:
 Jalankan gcal.py di terminal atau lingkungan Python Anda.
+
+Kode sudah di lengkapi dengan penjelasan untuk mudah di mengerti selamat mencoba :)
