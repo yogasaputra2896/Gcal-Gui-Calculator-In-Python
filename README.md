@@ -4,8 +4,9 @@ GCAL adalah kalkulator versi GUI (Graphical User Interface) yang merupakan penge
 Proyek ini adalah proyek sederhana yang saya buat untuk meningkatkan keterampilan dalam bahasa pemrograman Python.
 
 Dalam pengembangan GCAL, saya belajar menggunakan beberapa fitur Python, seperti library tkinter, fungsi eval, lambda, dan lainnya.
-GCAL memiliki fungsi yang sama seperti CALCON, namun dengan kelebihan tampilan yang sudah berbasis GUI.
+GCAL memiliki fungsi yang sama seperti CALCON, namun dengan kelebihan tampilan yang sudah berbasis GUI
 
+# Screenshoot
 ![image](https://github.com/user-attachments/assets/136d6953-a7ea-423b-9594-e820d3000984)
 
 # Fitur Utama
