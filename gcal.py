@@ -1,3 +1,8 @@
+# Gcalculator
+# Version 1.0
+# Doyok Developer
+# https://github.com/yogasaputra2896
+
 import tkinter as tk
 
 # Fungsi klik Tombol
